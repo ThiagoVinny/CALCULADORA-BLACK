@@ -15,9 +15,6 @@ Uma calculadora simples e funcional feita com **HTML**, **CSS**, e **JavaScript*
 - **CSS3**: Para o design e estilização da calculadora.
 - **JavaScript**: Para a lógica de funcionamento da calculadora.
 
-## Como Usar
+Segue um vídeo usando a calculadora
 
-1. Clone este repositório no seu computador:
 
-   ```bash
-   git clone https://github.com/seu-usuario/calculadora-black.git
