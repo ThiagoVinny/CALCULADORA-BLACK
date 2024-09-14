@@ -21,5 +21,8 @@ Uma calculadora simples e funcional feita com **HTML**, **CSS**, e **JavaScript*
 
 ![Captura de tela 2024-09-13 215710](https://github.com/user-attachments/assets/80a6b6cd-ac09-473c-a32f-2731d06239c3)
 
+## Video da Calculadora 
+
+https://drive.google.com/file/d/1SvJ53oEdIKijrw_slXmrfr5LopaOAKkG/view?usp=drive_link
 
 
