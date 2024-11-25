@@ -15,6 +15,9 @@ Uma calculadora simples e funcional feita com **HTML**, **CSS**, e **JavaScript*
 - **CSS3**: Para o design e estilização da calculadora.
 - **JavaScript**: Para a lógica de funcionamento da calculadora.
 
+## Link do site
+https://calculadora-black.netlify.app/
+
 ## Fotos da Calculadora
 
 ![Captura de tela 2024-09-13 215721](https://github.com/user-attachments/assets/c973fcdc-daad-4c4b-aa7c-4646f3effbbf)
